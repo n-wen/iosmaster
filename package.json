@@ -3,7 +3,7 @@
 	"displayName": "iosmaster",
 	"publisher": "iosmaster",
 	"description": "build and run ios app",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"engines": {
 		"vscode": "^1.40.0"
 	},
