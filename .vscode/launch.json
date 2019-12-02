@@ -11,6 +11,8 @@
 			"request": "launch",
 			"runtimeExecutable": "${execPath}",
 			"args": [
+				"/Users/wenning/project/ios/Foo",
+				"--disable-extensions",
 				"--extensionDevelopmentPath=${workspaceFolder}"
 			]
 		},

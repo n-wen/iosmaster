@@ -11,14 +11,18 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWorld"
+		"workspaceContains:*.xcworkspace"
 	],
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "extension.helloWorld",
-				"title": "Hello World"
+				"command": "extension.build",
+				"title": "iosmaster: build"
+			},
+			{
+				"command": "extension.run",
+				"title": "iosmaster: run"
 			}
 		]
 	},
