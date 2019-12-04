@@ -2,6 +2,10 @@
 	"name": "iosmaster",
 	"displayName": "iosmaster",
 	"publisher": "iosmaster",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/n-wen/iosmaster"
+	},
 	"description": "build and run ios app",
 	"version": "0.0.8",
 	"engines": {
