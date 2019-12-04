@@ -7,7 +7,7 @@
 		"url": "https://github.com/n-wen/iosmaster"
 	},
 	"description": "build and run ios app",
-	"version": "0.0.9",
+	"version": "0.0.10",
 	"engines": {
 		"vscode": "^1.40.0"
 	},
