@@ -20,7 +20,7 @@ Open ios project in vscode, edit some source files and run to check output.
 
 Contributions are welcome. To test and run this extension, please refer to [vscode](https://github.com/microsoft/vscode) extension developing docs.
 
-Feel free to submit issues or feature requests
+Feel free to submit issues or feature requests on [github](https://github.com/n-wen/iosmaster)
 
 
 **License**
